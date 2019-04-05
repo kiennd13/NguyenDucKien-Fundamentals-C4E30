@@ -1,6 +1,6 @@
-y = 1
+y = 0
 tien_nam_sau = 21
-while True :
+whisle True :
     tien_nam_sau = tien_nam_sau + tien_nam_sau*0.065
     tien_nam_sau = tien_nam_sau
     y = y+1
